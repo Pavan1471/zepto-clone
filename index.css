@@ -1,0 +1,272 @@
+.container{ 
+  margin-top: 15px;
+ 
+  
+  margin-left: 2px;
+  margin-right: 2px;
+  
+  background-color: #e6e0ab;
+  background-color: whitesmoke;
+  
+  
+  border-radius: 20px;
+  box-shadow: 3px 3px;
+  box-shadow: 5px 5px 5px #ccc;
+  -moz-border-radius:25px;
+  -webkit-border-radius:20px;
+  font-family: 'Noto Sans Display', sans-serif;
+
+
+}
+.img{
+  display: flex;
+  margin-top: 20px;
+  height: 100px;
+  margin-left: 8px;
+  margin-right: 8px;
+  
+  justify-content: center;
+}
+.text{
+  margin-top: 5px;
+  display: flex;
+  font-weight: bold;
+  color: black;
+  font-size: 15px;
+  justify-content: center;
+}
+.price{
+  margin-left: 30px;
+  font-size: 20px;
+  margin-top: 5px;
+  color: #f63e4e;
+  
+}
+
+.label{
+  display:flex;
+  margin-top: 5px;
+  margin-left:4px;
+  margin-right: 4px;
+  justify-content: center;
+  opacity: 0.3;
+  font-size: 8.5px;
+ 
+  
+}
+.buy{
+  display: flex;
+  justify-content: space-around;
+ 
+  
+  
+}
+button{
+  
+  
+  margin-top: 5px;
+  margin-bottom: 10px;
+  border:5px #f63e4e;
+  padding: 5px 5px;
+ background-color: #f9edf8;
+  border-radius: 10px;
+  font-size: 20px;
+}
+button:hover{
+  background-color: #f63e4e;
+  color: white;
+  
+}
+
+
+.product{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  
+  
+}
+s{
+  font-size: 10px;
+  color: black;
+}
+
+#banner{
+  height:170px;
+  width: 100%;
+  border-radius: 15px;
+}
+h1{
+  font-size: 20px;
+  font-family: 'Noto Sans Display', sans-serif;
+}
+
+.top{
+  display: flex;
+  justify-content: space-between;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+p1{
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Noto Sans Display', sans-serif;
+}
+p2{
+  font-size: 20px;
+  font-weight: bold;
+  color:#f63e4e;
+  font-family: 'Noto Sans Display', sans-serif;
+}
+
+.veg{
+  display: flex;
+  margin-top: 0px;
+  height: 100px;
+  margin-left: 35px;
+  margin-right: 35px;
+  width: 100px;
+  justify-content: center;
+  
+  
+}
+
+.container2{
+  margin-top: 15px;
+ 
+  
+  margin-left: 2px;
+  margin-right: 2px;
+  
+  background-color: #e6e0ab;
+ 
+  background-color: whitesmoke;
+  border-radius: 20px;
+  
+   box-shadow: 3px 3px;
+  box-shadow: 5px 5px 5px #ccc;
+  -moz-border-radius:25px;
+  -webkit-border-radius:20px;
+}
+.product2{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  
+  
+}
+.name{
+  margin-top: 5px;
+  display: flex;
+  font-weight: bold;
+  color: black;
+  font-size: 15px;
+  justify-content: center;
+  margin-bottom: 10px;
+  font-family: 'Noto Sans Display', sans-serif;
+}
+
+.brand{
+  display: flex;
+  margin-top: 0px;
+  height: 150px;
+  
+  margin-left: 20px;
+  margin-right: 0px;
+  
+  justify-content: center;
+}
+h2{
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma,Verdana, sans-serif;
+  font-family: 'Satisfy', cursive;
+  font-family: 'Noto Sans Display', sans-serif;
+  color: lightgreen;
+}
+.bars{
+  height: 30px;
+  
+}
+.cart{
+  display: flex;
+  justify-content: flex-end;
+  height: 30px;
+  
+  
+  
+  
+  
+}
+.nav{
+  
+  display: flex;
+  justify-content: space-between;
+  margin-right: 5px;
+  background-color: whitesmoke;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  
+  
+ 
+  
+}
+.user{
+  display: flex;
+  justify-content: flex-end;
+  height: 30px;
+  margin-right: 0px;
+  
+  
+  
+ 
+  
+  
+}
+.mySlides{
+  border-radius: 15px;
+  height: 170px;
+ 
+}
+.buy1{
+  display: flex;
+  justify-content: space-around;
+  margin-left: 35px;
+  margin-right: 35px;
+}
+p3{
+  padding-top: 40px;
+  font-size: 35px;
+  opacity: 0.3;
+  font-weight: bold;
+  margin-left: 0px;
+  font-family: 'Noto Sans Display', sans-serif;
+}
+p4{
+  font-weight: bold;
+  opacity: 0.3;
+  margin-left: 10px;
+  font-family: 'Noto Sans Display', sans-serif;
+  
+}
+.feedback{
+  background-color: whitesmoke;
+  padding-top: 30px;
+  
+}
+.suggest{
+  background-color: white;
+  color: #f63e4e;
+  font-size: 15px;
+  padding: 10px;
+  border-radius: 5px;
+  font-weight: bold;
+  margin-left: 10px;
+  
+  
+}
+a{
+  text-decoration: none;
+}
